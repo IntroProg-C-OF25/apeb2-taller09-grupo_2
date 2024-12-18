@@ -39,3 +39,10 @@ public class Iniciales {
         System.out.println("Letra coincide con un nombre del arreglo. Saliste del ciclo.");
     }
 }
+/***
+run:
+Ingrese una letra:
+M
+Letra coincide con un nombre del arreglo. Saliste del ciclo.
+BUILD SUCCESSFUL (total time: 5 seconds)
+*/
