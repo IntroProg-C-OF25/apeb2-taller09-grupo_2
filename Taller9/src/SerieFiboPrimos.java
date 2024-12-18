@@ -1,3 +1,10 @@
+/***
+Ejercicio 2
+Escriba un programa que permita presentar la siguiente serie:
+
+1/2, 1/3, 2/5, 3/7, 5/11, 8/13, . . . fibonaccis / primos 
+*/
+
 public class SerieFiboPrimos {
     public static void main(String[] args) {
         int limite = 10; // Número de términos a mostrar
